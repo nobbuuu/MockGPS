@@ -16,11 +16,11 @@ __安装包路径: app\release\MockGPS_v1.9.5.190604_alpha.apk__
 
 代码的原理在 https://blog.csdn.net/Hilavergil/article/details/81907548
 
-有问题或者bug的话，就发邮件吧 [565563269@qq.com]
+有问题或者bug的话，就发邮件吧 [1184824553@qq.com]
 
 Version 1.9.5测试版
   
-  下载地址：https://github.com/Hilaver/MockGPS/blob/master/app/release/MockGPS_v1.9.5.190604_alpha.apk
+  下载地址：https://github.com/nobbuuu/MockGPS/blob/master/app/release/MockGPS_v1.9.5.190604_alpha.apk
 
   1.开发环境换成了Android 9，增加一些Android 9的适配
   
