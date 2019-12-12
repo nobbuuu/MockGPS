@@ -1,6 +1,6 @@
 # MockGPS
 
-Author：Nero
+Author：Tiaozi
 
 修改Android系统的GPS定位
 
